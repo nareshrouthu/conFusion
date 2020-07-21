@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "deployfromgittofirebase",
+    "staging": "deployfromgittofirebase"
+  }
+}
